@@ -1,5 +1,4 @@
 # Estudos
- Criacao de projetos para estudos
- Git e GitHub
- 
+**Git esta facilitando os estudo**
+e *GitHub* é enssencial para programadores.
 
